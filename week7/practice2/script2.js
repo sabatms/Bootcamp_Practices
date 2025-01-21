@@ -8,5 +8,5 @@ function getweekday(date){
 }
 
 console.log(getweekday(new Date()));
-console.log(getweekday(new Date ('2012-10--10')));
+console.log(getweekday(new Date ('2012-10-10')));
 
