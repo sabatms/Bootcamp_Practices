@@ -9,7 +9,15 @@ body {
 
 header{
     display: flex;
+    justify-content: center;
     align-items: center;
+    padding: 20px;
+}
+
+header img{
+    margin: 0 10px;
+    max-width: 100%;
+    height: auto;
 }
 
 .color-palette{
